@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Simonzha_ng (Simonzhang8 张先淼) !   
-<img src="https://raw.githubusercontent.com/Simonzhang8/Simonzhang8/main/image/avatar.jpg" width="190" height="190"  alt="Simonzha_ng" /> <img src="https://github-readme-stats.vercel.app/api?username=Simonzhang8&count_private=true&show_icons=true" /> <img src="https://raw.githubusercontent.com/Simonzhang8/Simonzhang8/main/image/reward.jpg" width="200" height="200" style="float: right;" alt="赞赏码" />
+<img src="https://raw.githubusercontent.com/Simonzhang8/Simonzhang8/main/image/avatar.jpg" width="180" height="180"  alt="Simonzha_ng" /> <img src="https://github-readme-stats.vercel.app/api?username=Simonzhang8&count_private=true&show_icons=true" /> <img src="https://raw.githubusercontent.com/Simonzhang8/Simonzhang8/main/image/reward.jpg" width="180" height="180" style="float: right;" alt="赞赏码" />
 ## 欢迎访问我的个人介绍~
 - 🤔 一名理工科在读学渣大学生
 - 🌱 目前买了个云服务器瞎玩玩
@@ -18,7 +18,7 @@
   - <a href="https://bonus.vip35.cn/">视听会员话费电影充值特惠</a>
 - 📫 contact@zxm86.cn（网站相关） zhangxianmiao86@163.com（个人相关）
 - 目前正在初步学习（但其实都只会一点点）：
-<img src="https://skillicons.dev/icons?perline=14&i=windows,cpp,c,python,html,js,php,wordpress,mysql,sqlite,nginx,workers,cloudflare,github" />
+<img src="https://skillicons.dev/icons?perline=10&i=windows,cpp,c,python,html,js,php,wordpress,mysql,sqlite,nginx,workers,cloudflare,docker,github,matlab,npm," />
 <!--
 Here are some ideas to get you started:
 
