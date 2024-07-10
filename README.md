@@ -17,7 +17,7 @@
   - <a href="https://www.alipan.com/cpx/member?userCode=MTA0Mjgx/">阿里云盘会员特惠</a>
   - <a href="https://bonus.vip35.cn/">视听会员话费电影充值特惠</a>
 - 📫 contact@zxm86.cn（网站相关） zhangxianmiao86@163.com（个人相关）
-- 目前正在初步学习（但其实都只会一点点）：
+- 目前正在初步学习（但其实只会一点点）：
 <img src="https://skillicons.dev/icons?perline=10&i=windows,cpp,c,python,html,js,php,wordpress,mysql,sqlite,nginx,workers,cloudflare,docker,github,matlab,npm," />
 <!--
 Here are some ideas to get you started:
