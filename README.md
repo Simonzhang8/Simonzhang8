@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Simonzha_ng (Simonzhang8 张先淼) !   
-<img src="https://raw.githubusercontent.com/Simonzhang8/Simonzhang8/main/image/avatar.jpg" width="180" height="180"  alt="Simonzha_ng" /> <img src="https://github-readme-stats.vercel.app/api?username=Simonzhang8&count_private=true&show_icons=true" /> <img src="https://raw.githubusercontent.com/Simonzhang8/Simonzhang8/main/image/reward.jpg" width="180" height="180" style="float: right;" alt="赞赏码" />
+<img src="https://raw.githubusercontent.com/Simonzhang8/Simonzhang8/main/image/avatar.jpg" width="150" height="150"  alt="Simonzha_ng" /> <img src="https://github-readme-stats.vercel.app/api?username=Simonzhang8&count_private=true&show_icons=true" /> <img src="https://raw.githubusercontent.com/Simonzhang8/Simonzhang8/main/image/reward.jpg" width="180" height="180" style="float: right;" alt="赞赏码" />
 ## 欢迎访问我的个人介绍~
 - 🤔 一名理工科在读学渣大学生
 - 🌱 目前买了个云服务器瞎玩玩
