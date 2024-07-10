@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Simonzha_ng (Simonzhang8 张先淼) !   
-<img src="https://files.zxm86.cn/image/simonzha_ng-hd大头.JPG" width="200" height="200"  alt="Simonzha_ng" /> <img src="https://files.zxm86.cn/image/reward.jpg" width="200" height="200" style="float: right;" alt="赞赏码" />
+<img src="https://raw.githubusercontent.com/Simonzhang8/Simonzhang8/main/image/avatar.jpg" width="200" height="200"  alt="Simonzha_ng" /> <img src="https://raw.githubusercontent.com/Simonzhang8/Simonzhang8/main/image/avatar.jpg" width="200" height="200" style="float: right;" alt="赞赏码" />
 ## 欢迎访问我的个人介绍~
 - 🤔 一名理工科在读学渣大学生
 - 🌱 目前买了个云服务器瞎玩玩
