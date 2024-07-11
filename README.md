@@ -20,6 +20,19 @@
 - 目前正在初步学习（但其实只会一点点）：
 
 <img src="https://skillicons.dev/icons?perline=10&i=windows,cpp,c,python,html,js,php,wordpress,mysql,sqlite,nginx,workers,cloudflare,docker,github,matlab,npm," />
+
+- 目前正在“研究”的事：
+  - alist前后端分离，前端运行在Cloudflare Pages上（参考项目：<a href="https://github.com/Simonzhang8/alist-web-zxm/">alist-web-zxm</a>）
+    - 当前进展：成功在Cloudflare Pages上部署前端
+    - 操作方法：将前端alist-web fork到自己的github上，然后在cloudflare pages上使用这个仓库，并使用npm run build编译命令即可<a href="https://github.com/alist-org/alist/discussions/6680#discussioncomment-9942683">（参考讨论）</a>
+    - 目前困难：语言包不知道怎么在线部署编译、alist后台设置的自定义头部和内容在前端不生效（需要编辑index.html）
+  - alist前后端分离，前端运行在Github Pages上（参考项目：<a href="https://github.com/Simonzhang8/alist-web-zxm/">alist-web-zxm</a>）
+    - 目前困难：Github编译报错<a href="https://github.com/alist-org/alist/issues/6730">（参考Issue）</a>
+  - alist-proxy部署到其他边缘函数平台
+    - 当前进展：部署到腾讯EdgeOne上
+    - 操作方法：将源代码ts形式修改为js形式后部署
+    - 目前困难：使用几次后再也无法正常使用，提示403或sign mismatch等
+  - 待补充……
 <!--
 Here are some ideas to get you started:
 
